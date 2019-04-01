@@ -1,0 +1,1 @@
+# Image-Encryption-using-Bit-rotation-and-Genetic-Algorithm-Encryption-and-Decryption
