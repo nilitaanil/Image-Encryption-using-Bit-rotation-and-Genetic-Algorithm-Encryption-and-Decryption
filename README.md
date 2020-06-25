@@ -11,12 +11,19 @@ Decryption:
 1. Reverse the rotated bits 
 2. Apply Genetic Algorithm.
 
-Image folder : consits of image.csv file which contains all the image names that are present in the image folder itself.
-image_analysis.csv : consists of the results after encrypting and decrypting the images. It includes the encryption and decryption time, SSIM value for encryption and decryption for each of the images.
-image_crypt.py : consists of the GA algorithm (file not used just for reference)
-bit_slice2.py : consists of the bitslice and rotation algorithm (file not used just for reference)
-bit_and_algo.py : code that should be excuted for this project. In this file, image_crypt.py and bit_slice2.py codes are combined
-output_encrypted.jpg: gives the encypted image obtained by executing bit_and_algo.py
-out_final.jpg: gives the decypted image obtained by executing bit_and_algo.py
+### Image folder : 
+consits of image.csv file which contains all the image names that are present in the image folder itself.
+### image_analysis.csv : 
+consists of the results after encrypting and decrypting the images. It includes the encryption and decryption time, SSIM value for encryption and decryption for each of the images.
+### image_crypt.py : 
+consists of the GA algorithm (file not used just for reference)
+### bit_slice2.py : 
+consists of the bitslice and rotation algorithm (file not used just for reference)
+### bit_and_algo.py : 
+code that should be excuted for this project. In this file, image_crypt.py and bit_slice2.py codes are combined
+### output_encrypted.jpg: 
+gives the encypted image obtained by executing bit_and_algo.py
+### out_final.jpg: 
+gives the decypted image obtained by executing bit_and_algo.py
 
 
